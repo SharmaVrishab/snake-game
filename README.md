@@ -4,7 +4,6 @@
   
   ![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
   ![Pygame](https://img.shields.io/badge/Pygame-2.5.0+-green.svg)
-  ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
   ![Status](https://img.shields.io/badge/Status-Complete-success.svg)
 
   **A classic Snake game built with Python and Pygame**
@@ -150,10 +149,6 @@ Contributions are welcome! Here's how you can help:
 - 📱 Add mobile controls
 - 🏅 Create difficulty levels
 - 💫 Add power-ups
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
